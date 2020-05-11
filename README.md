@@ -13,7 +13,7 @@ We use [act](https://github.com/nektos/act) as a local task runner.
 
 ### Build
 ```console
-act -P ubuntu-latest=nektos/act-environments-ubuntu:18.04 -j build
+act -P ubuntu-latest=nektos/act-environments-ubuntu:18.04 -j build-push
 ```
 
 ## How to Run ?
